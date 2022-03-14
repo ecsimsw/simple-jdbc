@@ -1,5 +1,5 @@
 # jwp-dashboard-jdbc
-[JdbcTemplate](https://github.com/ecsimsw/simple-jdbc/blob/main/jdbc/src/main/java/nextstep/jdbc/JdbcTemplate.java)
+[JdbcTemplate](https://github.com/ecsimsw/simple-jdbc/blob/main/jdbc/src/main/java/nextstep/jdbc/JdbcTemplate.java)    
 [MockResultSetTest](https://github.com/ecsimsw/simple-jdbc/blob/main/jdbc/src/test/java/utils/MockResultSet.java)   
 
 ### 미션 후기 / 리뷰
